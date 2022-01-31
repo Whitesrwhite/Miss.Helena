@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *Miss Helena*:  ```" + msg + "```"
+    return "✅ *WHITE SER*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Miss Helena*:  ```" + msg + "```"
+    return "🛑 *WHITE SER*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Miss Helena*:  ```" + msg + "```"
+    return "⏺️ *WHITE SER*:  ```" + msg + "```"
 }
 
 
