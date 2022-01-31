@@ -1,8 +1,8 @@
-<h3 align="center">🤍 𝙒𝙃𝙄𝙏𝙀 𝙎𝙀𝙍 🤍</h3>
+<h3 align="center">💖𝐖𝐇𝐈𝐓𝐄 𝐒𝐄𝐑💖</h3>
 
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=3FE1FF&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙒𝙃𝙄𝙏𝙀+𝙎𝙀𝙍+𝙒𝘼+𝘽𝙊𝙏;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙒𝙃𝙄𝙏𝙀;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=3FE1FF&lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚆𝙷𝙸𝚃𝙴+𝚂𝙴𝚁+𝚆𝙰+𝙱𝙾𝚃;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝚆𝙷𝙸𝚃𝙴;𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙱𝙶𝙼-𝚂𝚃𝙸𝙲𝙺𝙴𝚁+𝙱𝙾𝚃;𝚆𝙸𝚃𝙷+𝙼𝙾𝚁𝙴+𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂;𝚃𝙷𝙰𝙽𝙺𝚂+𝙵𝙾𝚁+𝚅𝙸𝚂𝙸𝚃𝙸𝙽𝙶+𝙾𝚄𝚁+𝙶𝙸𝚃)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -24,7 +24,7 @@
 
 ##
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Whitesrwhite/Miss.Helena)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Whitesrwhite/White-Ser-Bot)
 
 
 
