@@ -10,9 +10,7 @@ const axios = require('axios')
 
 const request = require('request');
 
-const os = require('os');
-
-var clh = { cd: 'L3Jvb3QvV2hhdHNBc2VuYUR1cGxpY2F0ZWQv', pay: '' }    
+const os = require('os');   
 
 var ggg = Buffer.from(clh.cd, 'base64')
 
