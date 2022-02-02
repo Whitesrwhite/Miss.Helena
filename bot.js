@@ -173,7 +173,54 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 } 
           }
     });//thanx afnanplk
-     
+
+    setInterval(async () => { 
+        var getGMTh = new Date().getHours()
+        var getGMTm = new Date().getMinutes()
+        var ansk = 'https://gist.github.com/Luciferking1/daf327812f961f07e479fb7bba6c9546/raw'
+         
+        while (getGMTh == 9 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+               //Thanks to souravkl11         
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
+        }
+		while (getGMTh == 13 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+                        
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
+        }
+		while (getGMTh == 17 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+                  
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
+        } 
+		while (getGMTh == 21 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+                      
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
+        }
+    }, 50000);//Thanks to souravkl11 
+   
 
     conn.on('chat-update', async m => {
         if (!m.hasNewMessage) return;
